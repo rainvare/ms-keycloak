@@ -1,11 +1,3 @@
-# Lasciate ogni speranza, voi ch'entrate
-Parcial para la especialización de Backend II en la carrera CTD de DigitalHouse
------
-
-El trabajo parcial consistirá en entregar la resolución de las prácticas de clase que afectan al trabajo integrador del sistema de películas online
-![Consigna](./Entrega_Parcial_-_Trabajo_Integrador_.docx%20(1).pdf)
-
------------------
 
 
 ### Requerimientos 
@@ -47,11 +39,10 @@ También se implementó Feign en el miscroservicio de Bills, para su conexión c
 
 #### Pendientes
 
-El proyecto no está dockerizado, presenta problemas de conexión y redireccionamiento.
+El proyecto no está dockerizado
 
-------------
-
-Se supone que en algún momento entenderé que hice acá, y si eso no pasa, solo tengo que agradecer los tutoriales de Stian Thorgersen..
+------------------------------
+solo tengo que agradecer los tutoriales de Stian Thorgersen..
 
 
 
